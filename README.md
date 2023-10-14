@@ -106,7 +106,7 @@ The following are the limitations of this project:
 
 ## Build Manually
 
-Clone the repository: `git clone https://github.com/vladmyers/mancala.git`
+Clone the repository: `git clone https://github.com/vladmaiers/mancala.git`
 
 ### Build all modules
 1. Navigate to the project [root directory]
