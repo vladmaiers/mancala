@@ -10,7 +10,7 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "author": "Vlad Myers <vladmyers.dev@gmail.com>",
+  "author": "Vlad Maiers <vladmaiers.dev@gmail.com>",
   "license": "Apache License 2.0",
   "dependencies": {
     "bootstrap": "^5.2.3",
